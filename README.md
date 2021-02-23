@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" src="https://github.com/BrunaDomingues/BrunaDomingues/banner.jpg">
+<img width="auto" src="https://github.com/BrunaDomingues/BrunaDomingues/blob/main/banner.jpg">
 
 
 # Bruna Domingues Leite
