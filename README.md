@@ -6,7 +6,7 @@
 Sou apaixonada por criar coisas e resolver problemas através da programação, paixão essa que surgiu ao primeiro hello world lá em meados de 2013.
 Sou desenvolvedora frontend mas também faço a parte de backend em php. :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Agência Visio**
+ :rocket:  &nbsp; Atualmente sou mentora voluntária na **SouJúnior**
  <br/> :purple_heart: &nbsp; Buscando aprender e colaborar com projetos em Front-end usando React e também nodejs
  <br/> :blush: &nbsp; Posso te ajudar com várias coisas de frontend e o que eu não souber eu estarei fazendo o máximo de esforço para achar a solução ou indicar algum amigo da área que ajude nisso. Posso ajudar também com o básico de php e a criar sistemas.
  <br/> :computer: &nbsp; Minha stack: Php
