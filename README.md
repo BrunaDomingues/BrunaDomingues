@@ -25,6 +25,19 @@ Sou desenvolvedora frontend mas também faço a parte de backend em php. :comput
  <br/> <br/>
  
  # Sobre mim 💬:
+  ### 💼 Formações e experiências
+
+- **Formação:** Tec. em Informática para Internet (IFSul-Câmpus Bagé)
+- **Formação:** Tec. em Guia de Turismo (Senac - Bagé)
+- **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (Estácio)
+  
+- **Experiência:** 8+ anos na área de desenvolvimento
+- 🏢 **Última empresa:** Bling - LWSA (2 anos e 7 meses)
+- 🏢 Agência Visio (5 anos)
+- 🏢 Agência Nidus (2 anos)
+- 🏢 Zaptchê Telecom - Suporte e Dev (1 ano e 6 meses)
+- 🏢 Prefeitura de Bagé - Guia de Turismo (2 anos e 6 meses)
+ 
  ###  🎮 Interesses Pessoais
 
 - 🎮 **Games:** COD Mobile, League of Legends
