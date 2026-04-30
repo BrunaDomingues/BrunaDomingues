@@ -12,7 +12,7 @@ Sou desenvolvedora frontend mas também faço a parte de backend em php. :comput
 ## Minhas stacks 💻:
  ### Frontend
 - HTML5, CSS3, JavaScript
-- Vue.js
+- Vue.js, Angular, React.js
 - Bootstrap, Tailwind CSS
 
 ### Backend
