@@ -13,6 +13,7 @@ Brasil · em constante aprendizado · aberta a colaboração e open source
 ## Olá, pessoal 👋
 
 Sou apaixonada por criar coisas e resolver problemas com código — uma paixão que começou no primeiro **hello world**, em **2013**, e que só cresceu desde então. Atuo principalmente como **desenvolvedora full stack**, com mais de 10 anos de experiência em tecnologia. Tenho base sólida em backend PHP (Laravel) e atuação consistente em front-end com Vue.js, React e React Native, além de HTML5, CSS3 e JavaScript (ES6+). No back-end também trabalho com Node.js e Express, e em banco de dados com SQL (MySQL/MariaDB) e ORMs como Sequelize.
+
 ---
 
 ## Stacks 💻
