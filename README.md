@@ -2,7 +2,7 @@
 
 # Bruna Domingues Leite
 
-**Desenvolvedora Frontend** · experiência em **backend PHP (Laravel)** · **8+ anos** na área  
+**Desenvolvedora Full Stack** · experiência em **backend PHP (Laravel)** · **8+ anos** na área  
 Brasil · em constante aprendizado · aberta a colaboração e open source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BrunaDomingues-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-domingues-leite/)
